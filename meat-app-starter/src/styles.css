@@ -15,6 +15,7 @@ body {
 .place-info-box {
   color: #555;
   display: block;
+  border-radius: 10px 10px !important;
   min-height: 120px;
   background: #fff;
   width: 100%;
@@ -42,6 +43,7 @@ body {
   border-top-right-radius: 0;
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 2px;
+  margin-left: 20px;
   display: block;
   float: left;
   /*height: 120px;*/
