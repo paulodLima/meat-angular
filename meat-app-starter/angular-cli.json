@@ -64,6 +64,9 @@
     }
   },
   "defaults": {
+    "serve":{
+      "proxyConfig": "./proxy.config.js"
+    },
     "styleExt": "css",
     "prefixInterfaces": false,
     "inline": {
