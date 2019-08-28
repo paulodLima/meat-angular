@@ -209,6 +209,8 @@ body {
 .jumbotron {
   background-color: #fff;
   text-align:center;
+  margin-right: 50px;
+  margin-left:  50px;
 }
 .jumbotron h2 {
   font-size: 40px;
